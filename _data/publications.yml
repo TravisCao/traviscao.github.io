@@ -1,19 +1,87 @@
 main:
+  - title: "A Differentially Private Energy Trading Mechanism Approaching Social Optimum"
+    authors: <strong>Yuji Cao</strong>, Y. Chen
+    conference_short: TSG
+    conference: IEEE Transactions on Smart Grid, 2025
+    link: https://doi.org/10.1109/TSG.2025.3628290
+
   - title: "Survey on Large Language Model-Enhanced Reinforcement Learning: Concept, Taxonomy, and Methods"
     authors: <strong>Yuji Cao</strong>, Huan Zhao, Yuheng Cheng, Ting Shu, Yue Chen, Guolong Liu, Gaoqi Liang, Junhua Zhao, Jinyue Yan, Yun Li
     conference_short: TNNLS
-    conference: IEEE Transactions on Neural Networks and Learning Systems
+    conference: IEEE Transactions on Neural Networks and Learning Systems, 2025
     link: https://arxiv.org/abs/2404.00282
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:EvFQ77ToMHwJ:scholar.google.com/&output=citation&scisdr=ClE51BdBEMjTj4dc_nc:AFWwaeYAAAAAZzBa5nfFoxLGcSYv2PaxEi5lt1o&scisig=AFWwaeYAAAAAZzBa5sfsHBzWazBtCZrCKOzaQVs&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/LLM-enhanced-RL.png
 
+  - title: "Linear-Layer-Enhanced Quantum Long Short-Term Memory for Carbon Price Forecasting"
+    authors: <strong>Yuji Cao</strong>, Xiyuan Zhou, Xiang Fei, Huan Zhao, Wenxuan Liu, Junhua Zhao
+    conference_short: QMI
+    conference: Quantum Machine Intelligence, 2023
+    link: https://link.springer.com/article/10.1007/s42484-023-00115-2
+    code: https://github.com/TravisCao/L-QLSTM
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Tc_tAdhRFoEJ:scholar.google.com/&output=citation&scisdr=ClHXjNAaEMH9urnXT2g:AFWwaeYAAAAAZRzRV2gzYiJtjC9gl5LZGoHu8rM&scisig=AFWwaeYAAAAAZRzRV5jjV8LQYJn80w0cpvPT49Q&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/L-QLSTM.png
+
+  - title: "Fast and Explainable Warm-Start Point Learning for AC Optimal Power Flow Using Decision Tree"
+    authors: <strong>Yuji Cao</strong>, Huan Zhao, Gaoqi Liang, Junhua Zhao, Huanxin Liao, Chao Yang
+    conference_short: IJEPES
+    conference: International Journal of Electrical Power & Energy Systems, 2023
+    link: https://www.sciencedirect.com/science/article/pii/S014206152300426X
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:IXlZoAmTdxcJ:scholar.google.com/&output=citation&scisdr=ClHXjNAaEMH9urnXhNc:AFWwaeYAAAAAZRzRnNeIVk_dkcMMcsaZIjtRE6c&scisig=AFWwaeYAAAAAZRzRnMN0hAj2h1pBPdNaA8uHLWQ&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/warm-start.jpg
+
+  - title: "Quantum-Enabled Probabilistic Optimal Power Flow with Built-in Differential Privacy"
+    authors: <strong>Yuji Cao</strong>, T. Li, Y. Chen
+    conference_short: arXiv
+    conference: arXiv preprint, 2026
+    link: https://arxiv.org/abs/2603.16780
+    notes: Under review, IEEE Trans. Smart Grid
+
+  - title: "Quantum Restricted Boltzmann Machine for Fast Unit Commitment"
+    authors: <strong>Yuji Cao</strong>, Y. Chen
+    conference_short: PEL
+    conference: Under review, IEEE Power Engineering Letters, 2026
+
+  - title: "A Differentially Private Quantum Neural Network for Probabilistic Optimal Power Flow"
+    authors: <strong>Yuji Cao</strong>, Y. Chen, Y. Xu
+    conference_short: ECE Forum
+    conference: Energy Conversion and Economics Forum (IET Conf. Proc.), 2024
+    link: https://arxiv.org/abs/2411.16117
+    notes: Best Paper Award
+
+  - title: "A Large Language Model for Advanced Power Dispatch"
+    authors: Y. Cheng, H. Zhao, X. Zhou, J. Zhao, <strong>Yuji Cao</strong>, C. Yang
+    conference_short: Sci Rep
+    conference: Scientific Reports, 2025
+    link: https://arxiv.org/abs/2408.03847
+
   - title: "Privacy-Preserving Bi-Level Optimization of Internet Data Centers for Electricity-Carbon Collaborative Demand Response"
     authors: Jiaqi Ruan, Yifan Zhu, <strong>Yuji Cao</strong>, Xianzhuo Sun, Shunbo Lei, Gaoqi Liang, Jing Qiu, Zhao Xu
     conference_short: IEEE IoTJ
-    conference: IEEE Internet of Things Journal
+    conference: IEEE Internet of Things Journal, 2024
     link: https://ieeexplore.ieee.org/abstract/document/10506234
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:keO2E_rMQfUJ:scholar.google.com/&output=citation&scisdr=ClE51BdBEMjTj4dceJE:AFWwaeYAAAAAZzBaYJFUmoERWiMmiEg1MbdDBKc&scisig=AFWwaeYAAAAAZzBaYLnAlMeRAl02xhoit_BnfhI&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/data-center.png
+
+  - title: "Carbon Market Risk Estimation Using Quantum Conditional Generative Adversarial Network and Amplitude Estimation"
+    authors: X. Zhou, H. Zhao, <strong>Yuji Cao</strong>, X. Fei, G. Liang, J. Zhao
+    conference_short: ECE
+    conference: Energy Conversion and Economics, 2024
+
+  - title: "Adjustable Robust Optimization with Decision-Dependent Uncertainty for Power System Problems: A Review"
+    authors: T. Tan, M. Yang, R. Xie, <strong>Yuji Cao</strong>, Y. Chen
+    conference_short: ECE
+    conference: Energy Conversion and Economics, 2025
+
+  - title: "Coordinated Power Smoothing Control for Wind Storage Integrated System with Physics-Informed Deep Reinforcement Learning"
+    authors: S. Wang, H. Zhao, <strong>Yuji Cao</strong>, Z. Pan, G. Liu, G. Liang, J. Zhao
+    conference_short: EPSR
+    conference: Electric Power Systems Research, 2025
+
+  - title: "Quantum Learning and Estimation for Coordinated Operation Between Distribution Networks and Energy Communities"
+    authors: Y. Zhuang, L. Cheng, <strong>Yuji Cao</strong>, T. Li, N. Qi, Y. Xu, Y. Chen
+    conference_short: CSEE JPES
+    conference: CSEE Journal of Power and Energy Systems, 2026
 
   - title: "Strategic Bidding and Trading in Joint Electricity-Carbon Market with Deep Reinforcement Learning"
     authors: Yingjie Li, Di Leng, <strong>Yuji Cao*</strong>, Huan Zhao, Junhua Zhao (*Corresponding author)
@@ -31,22 +99,3 @@ main:
     link: https://ieeexplore.ieee.org/abstract/document/10512678
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:hKdbaAm1oOUJ:scholar.google.com/&output=citation&scisdr=ClE51BdBEMjTj4dfh2A:AFWwaeYAAAAAZzBZn2DFXxKg9bHqdksNSoA1o2o&scisig=AFWwaeYAAAAAZzBZn8zb6n1yQJoiDnBqOYIuO5s&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/CEF.png
-
-  - title: "Fast and Explainable Warm-Start Point Learning for AC Optimal Power Flow Using Decision Tree"
-    authors: <strong>Yuji Cao</strong>, Huan Zhao, Gaoqi Liang, Junhua Zhao, Huanxin Liao, Chao Yang
-    conference_short: IJEPES
-    conference: International Journal of Electrical Power & Energy Systems
-    link: https://www.sciencedirect.com/science/article/pii/S014206152300426X
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:IXlZoAmTdxcJ:scholar.google.com/&output=citation&scisdr=ClHXjNAaEMH9urnXhNc:AFWwaeYAAAAAZRzRnNeIVk_dkcMMcsaZIjtRE6c&scisig=AFWwaeYAAAAAZRzRnMN0hAj2h1pBPdNaA8uHLWQ&scisf=4&ct=citation&cd=-1&hl=en
-    image: ./assets/img/warm-start.jpg
-    # notes: Early Accept
-
-  - title: "Linear-layer-enhanced Quantum Long Short-Term Memory for Carbon Price Forecasting"
-    authors: <strong>Yuji Cao</strong>, Xiyuan Zhou, Xiang Fei, Huan Zhao, Wenxuan Liu, Junhua Zhao
-    conference_short: QMI
-    conference: Quantum Machine Intelligence
-    link: https://link.springer.com/article/10.1007/s42484-023-00115-2
-    code: https://github.com/TravisCao/L-QLSTM
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Tc_tAdhRFoEJ:scholar.google.com/&output=citation&scisdr=ClHXjNAaEMH9urnXT2g:AFWwaeYAAAAAZRzRV2gzYiJtjC9gl5LZGoHu8rM&scisig=AFWwaeYAAAAAZRzRV5jjV8LQYJn80w0cpvPT49Q&scisf=4&ct=citation&cd=-1&hl=en
-    # notes: Oral Presentation
-    image: ./assets/img/L-QLSTM.png
