@@ -1,0 +1,248 @@
+{
+  "publications": [
+    {
+      "title": "A Differentially Private Energy Trading Mechanism Approaching Social Optimum",
+      "authors": [
+        "Yuji Cao",
+        "Y. Chen"
+      ],
+      "venue": "IEEE Transactions on Smart Grid, 2025",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "link": "https://doi.org/10.1109/TSG.2025.3628290"
+      }
+    },
+    {
+      "title": "Survey on Large Language Model-Enhanced Reinforcement Learning: Concept, Taxonomy, and Methods",
+      "authors": [
+        "Yuji Cao",
+        "Huan Zhao",
+        "Yuheng Cheng",
+        "Ting Shu",
+        "Yue Chen",
+        "Guolong Liu",
+        "Gaoqi Liang",
+        "Junhua Zhao",
+        "Jinyue Yan",
+        "Yun Li"
+      ],
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems, 2025",
+      "selected": 1,
+      "award": "",
+      "thumbnail": "images/thumbs/LLM-enhanced-RL.png",
+      "links": {
+        "link": "https://arxiv.org/abs/2404.00282"
+      }
+    },
+    {
+      "title": "Linear-Layer-Enhanced Quantum Long Short-Term Memory for Carbon Price Forecasting",
+      "authors": [
+        "Yuji Cao",
+        "Xiyuan Zhou",
+        "Xiang Fei",
+        "Huan Zhao",
+        "Wenxuan Liu",
+        "Junhua Zhao"
+      ],
+      "venue": "Quantum Machine Intelligence, 2023",
+      "selected": 1,
+      "award": "",
+      "thumbnail": "images/thumbs/L-QLSTM.png",
+      "links": {
+        "code": "https://github.com/TravisCao/L-QLSTM",
+        "link": "https://link.springer.com/article/10.1007/s42484-023-00115-2"
+      }
+    },
+    {
+      "title": "Fast and Explainable Warm-Start Point Learning for AC Optimal Power Flow Using Decision Tree",
+      "authors": [
+        "Yuji Cao",
+        "Huan Zhao",
+        "Gaoqi Liang",
+        "Junhua Zhao",
+        "Huanxin Liao",
+        "Chao Yang"
+      ],
+      "venue": "International Journal of Electrical Power & Energy Systems, 2023",
+      "selected": 1,
+      "award": "",
+      "thumbnail": "images/thumbs/warm-start.jpg",
+      "links": {
+        "link": "https://www.sciencedirect.com/science/article/pii/S014206152300426X"
+      }
+    },
+    {
+      "title": "Quantum-Enabled Probabilistic Optimal Power Flow with Built-in Differential Privacy",
+      "authors": [
+        "Yuji Cao",
+        "T. Li",
+        "Y. Chen"
+      ],
+      "venue": "arXiv preprint, 2026 · Under review at IEEE Trans. Smart Grid",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "link": "https://arxiv.org/abs/2603.16780"
+      }
+    },
+    {
+      "title": "Quantum Restricted Boltzmann Machine for Fast Unit Commitment",
+      "authors": [
+        "Yuji Cao",
+        "Y. Chen"
+      ],
+      "venue": "Under review, IEEE Power Engineering Letters, 2026",
+      "selected": 1,
+      "award": ""
+    },
+    {
+      "title": "A Differentially Private Quantum Neural Network for Probabilistic Optimal Power Flow",
+      "authors": [
+        "Yuji Cao",
+        "Y. Chen",
+        "Y. Xu"
+      ],
+      "venue": "Energy Conversion and Economics Forum (IET Conf. Proc.), 2024",
+      "selected": 1,
+      "award": "Best Paper Award",
+      "links": {
+        "link": "https://arxiv.org/abs/2411.16117"
+      }
+    },
+    {
+      "title": "A Large Language Model for Advanced Power Dispatch",
+      "authors": [
+        "Y. Cheng",
+        "H. Zhao",
+        "X. Zhou",
+        "J. Zhao",
+        "Yuji Cao",
+        "C. Yang"
+      ],
+      "venue": "Scientific Reports, 2025",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "link": "https://arxiv.org/abs/2408.03847"
+      }
+    },
+    {
+      "title": "Privacy-Preserving Bi-Level Optimization of Internet Data Centers for Electricity-Carbon Collaborative Demand Response",
+      "authors": [
+        "Jiaqi Ruan",
+        "Yifan Zhu",
+        "Yuji Cao",
+        "Xianzhuo Sun",
+        "Shunbo Lei",
+        "Gaoqi Liang",
+        "Jing Qiu",
+        "Zhao Xu"
+      ],
+      "venue": "IEEE Internet of Things Journal, 2024",
+      "selected": 0,
+      "award": "",
+      "thumbnail": "images/thumbs/data-center.png",
+      "links": {
+        "link": "https://ieeexplore.ieee.org/abstract/document/10506234"
+      }
+    },
+    {
+      "title": "Carbon Market Risk Estimation Using Quantum Conditional Generative Adversarial Network and Amplitude Estimation",
+      "authors": [
+        "X. Zhou",
+        "H. Zhao",
+        "Yuji Cao",
+        "X. Fei",
+        "G. Liang",
+        "J. Zhao"
+      ],
+      "venue": "Energy Conversion and Economics, 2024",
+      "selected": 0,
+      "award": ""
+    },
+    {
+      "title": "Adjustable Robust Optimization with Decision-Dependent Uncertainty for Power System Problems: A Review",
+      "authors": [
+        "T. Tan",
+        "M. Yang",
+        "R. Xie",
+        "Yuji Cao",
+        "Y. Chen"
+      ],
+      "venue": "Energy Conversion and Economics, 2025",
+      "selected": 0,
+      "award": ""
+    },
+    {
+      "title": "Coordinated Power Smoothing Control for Wind Storage Integrated System with Physics-Informed Deep Reinforcement Learning",
+      "authors": [
+        "S. Wang",
+        "H. Zhao",
+        "Yuji Cao",
+        "Z. Pan",
+        "G. Liu",
+        "G. Liang",
+        "J. Zhao"
+      ],
+      "venue": "Electric Power Systems Research, 2025",
+      "selected": 0,
+      "award": ""
+    },
+    {
+      "title": "Quantum Learning and Estimation for Coordinated Operation Between Distribution Networks and Energy Communities",
+      "authors": [
+        "Y. Zhuang",
+        "L. Cheng",
+        "Yuji Cao",
+        "T. Li",
+        "N. Qi",
+        "Y. Xu",
+        "Y. Chen"
+      ],
+      "venue": "CSEE Journal of Power and Energy Systems, 2026",
+      "selected": 0,
+      "award": ""
+    },
+    {
+      "title": "Strategic Bidding and Trading in Joint Electricity-Carbon Market with Deep Reinforcement Learning",
+      "authors": [
+        "Yingjie Li",
+        "Di Leng",
+        "Yuji Cao*",
+        "Huan Zhao",
+        "Junhua Zhao"
+      ],
+      "venue": "The 7th IEEE Conference on Energy Internet and Energy System Integration (EI2), 2023",
+      "selected": 1,
+      "award": "",
+      "thumbnail": "images/thumbs/joint-bidding.png",
+      "corresponding_author_note": "(*corresponding author)",
+      "links": {
+        "code": "https://github.com/TravisCao/joint-carbon-electricity-market-bidding-RL",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10512704"
+      }
+    },
+    {
+      "title": "Interzonal Carbon Emission Flow Minimization",
+      "authors": [
+        "Hanbing Zhang",
+        "Jichao Ye",
+        "Hua Feng",
+        "Xinwei Hu",
+        "Hui Huang",
+        "Yonghai Xu",
+        "Yuji Cao*",
+        "Huanxin Liao"
+      ],
+      "venue": "The 7th IEEE Conference on Energy Internet and Energy System Integration (EI2), 2023",
+      "selected": 1,
+      "award": "",
+      "thumbnail": "images/thumbs/CEF.png",
+      "corresponding_author_note": "(*corresponding author)",
+      "links": {
+        "link": "https://ieeexplore.ieee.org/abstract/document/10512678"
+      }
+    }
+  ]
+}
