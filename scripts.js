@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // Load publications from the static JSON file
 function loadPublications() {
-  fetch('publications.json?v=20260621')
+  fetch('publications.json?v=20260621-venue')
     .then(response => {
       if (!response.ok) {
         throw new Error(`Network response was not ok: ${response.status}`);
