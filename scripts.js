@@ -81,9 +81,28 @@ function renderPublications(selectedOnly) {
     ? allPublications.filter(publication => publication.selected === 1)
     : allPublications;
 
-  publicationsToShow.forEach(publication => {
-    publicationsContainer.appendChild(createPublicationElement(publication));
-  });
+  publicationsToShow
+    .slice()
+    .sort(comparePublicationsByTime)
+    .forEach(publication => {
+      publicationsContainer.appendChild(createPublicationElement(publication));
+    });
+}
+
+function comparePublicationsByTime(a, b) {
+  const yearDifference = getPublicationYear(b) - getPublicationYear(a);
+  if (yearDifference !== 0) {
+    return yearDifference;
+  }
+  return allPublications.indexOf(a) - allPublications.indexOf(b);
+}
+
+function getPublicationYear(publication) {
+  const years = String(publication.venue || '').match(/\b(?:19|20)\d{2}\b/g);
+  if (!years) {
+    return 0;
+  }
+  return Math.max(...years.map(Number));
 }
 
 // Create one publication row
