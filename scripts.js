@@ -130,7 +130,7 @@ function createPublicationElement(publication) {
   authors.className = 'pub-authors';
 
   publication.authors.forEach((author, index) => {
-    if (author.includes('Yuji Cao')) {
+    if (isYujiCaoAuthor(author)) {
       const highlightedAuthor = document.createElement('span');
       highlightedAuthor.className = 'highlight-name';
       highlightedAuthor.textContent = author;
@@ -185,6 +185,11 @@ function createPublicationElement(publication) {
 
   publicationItem.appendChild(content);
   return publicationItem;
+}
+
+function isYujiCaoAuthor(author) {
+  const normalizedAuthor = author.replace('*', '').trim();
+  return normalizedAuthor === 'Yuji Cao' || normalizedAuthor === 'Y. Cao';
 }
 
 function appendPublicationLink(container, href, label) {
